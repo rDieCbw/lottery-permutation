@@ -6,3 +6,6 @@
 - The second fild indicates the output size for the combinations
 
 The site are free hosted on InfinityFree in this link: http://lottery-permutation.rf.gd/?i=1
+
+
+![alt text](https://github.com/rDieCbw/lottery-permutation/raw/master/assets/home-screenshot.png)
